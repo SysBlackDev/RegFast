@@ -9,9 +9,8 @@
 - [Requisiti](#requisiti)
 
 ## Diagramma di flusso
-Il diagramma di flusso è disponibile a questo [link](https://i.imgur.com/02TB2Un.png)
 <details>
-    <summary>Oppure puoi vederlo cliccando qui</summary>
+    <summary>Clicca per mostrare</summary>
     <img src="https://i.imgur.com/02TB2Un.png" alt="Diagramma di flusso">
 </details>
 
